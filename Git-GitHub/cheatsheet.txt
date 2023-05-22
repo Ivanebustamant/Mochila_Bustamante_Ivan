@@ -1,0 +1,27 @@
+CHEATSHEET GIT GITHUB
+
+git init
+
+git config —global [user.name](http://user.name) “nombre”
+
+git config —global user.mail “correo”
+
+para descargar y vincular repositorio es con:
+
+git remote add origin URLde repo
+
+para confirmar 
+
+git remote -v
+
+para cargar, depende de si es main o master
+
+git push origin main/master
+
+para generar nueva rama
+
+git branch trabajo-github
+
+para cambiar hacia la rama es 
+
+git checkout trabajo-github
