@@ -1,0 +1,6 @@
+Respuestas:
+
+Direccion IP : 10.0.2.15 
+Direccion MAC : fe80::a00:27ff:fe2a:f21a/64cion
+Si es diferente la IP publica de la privada
+
