@@ -59,3 +59,86 @@ const: Permite crear una Variable que se mantendrá constante durante todo el pr
 
 */
 
+/*existe lacomparacion estricta y otro tipo */
+
+
+
+let edad2 = 27;
+
+if(10 == 15){
+
+}
+
+
+/*
+el o es con ||
+*/
+
+true || true
+true || false
+false || true
+false || false
+
+/*el y es con && */
+
+/** el de desigual es con != */
+
+
+
+/** es direfenrcia blanca y estrica
+ blanda (!=)     o Estrica (!==)
+
+ */
+
+
+ /*el cero es un tipo de dato booleano falso si es ta asi solo, el 0 
+ el 1 es el booleano tambien */
+
+
+ let anios = 10;
+ let nombre3 = "Juan";
+ let esMayor = false;
+
+ console.log(anios);
+ console.log(nombre3);
+ console.log(esMayor);
+//----
+ console.log(anios + nombre3 + esMayor);
+ console.log(`${anios}${nombre3}${esMayor}`);
+
+//Variables de mario
+
+
+ let puntos = 0;
+ let cantidadDeMonedas = 0;
+ let nivel = 1;
+ let cantidadDeVidas = 3;
+ let honguitosDeMario = 5;
+ let jugador = "Ivan";
+
+ //Variables de una persona
+
+ let diaDeNacimiento = 20;
+ let anioDeNacimiento = 1995;
+ let nombre5 = "Luciano";
+ let estaVivo = true;
+
+ let comparacion = (cantidadDeVidas == 0);
+console.log(`la respuesta es ${comparacion}`);
+
+
+let valor = cantidadDeVidas--;
+let comparacion2 = (cantidadDeVidas == 0);
+console.log(`la respuesta a la comparacion si el personaje esta muerto es : ${comparacion2}`);
+
+
+
+/*npm i prompt-sync */
+
+/* const prompt = require("prompt-sync")({ sigint: true }); */
+
+
+
+ /**
+  * mismo contenido y tipo de dato la comparacion estrica a comparacion blanda 
+  */
