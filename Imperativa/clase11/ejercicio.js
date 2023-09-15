@@ -8,7 +8,7 @@ Luego, utiliza la función encontrarMultiplos para obtener los múltiplos de 5 h
 
 //CODIGO
 
-/*
+
 function encontrarMultiplos(numUNO, numLIMITE){
     //let primero = numUNO;
     //let segundo = numDOS;
@@ -24,8 +24,6 @@ let arr = encontrarMultiplos(5,50);
 
 console.log(arr);
 
-
-*/
 
 
 /* 
